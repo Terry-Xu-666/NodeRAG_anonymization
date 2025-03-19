@@ -1,9 +1,6 @@
 # NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes
  
-<div align="center">
-  <img src="/asset/Node_background.jpg" alt="NodeRAG Logo" width="600px">
-  
-</div>
+![NodeRAG Logo](./asset/Node_background.jpg)
 
 
 
@@ -13,9 +10,8 @@
 
 ### 🧩 Workflow
 
-<div align="center">
-  <img src="/asset/NodeGraph_Figure2.png" alt="NodeRAG Workflow" width="800px">
-</div>
+![NodeRAG Workflow](./asset/NodeGraph_Figure2.png)
+
 
 ---
 
@@ -195,9 +191,8 @@ NodeRAG offers a user-friendly visualization system. Coupled with a fully develo
 
 ### 📊 Benchmark Performance
 
-<div align="center">
-  <img src="/asset/performance.png" alt="Benchmark Performance" width="800px">
-</div>
+![Benchmark Performance](./asset/performance.png)
+
 
 *NodeRAG demonstrates strong performance across multiple benchmark tasks, showcasing efficiency and retrieval quality.*
 
@@ -205,9 +200,7 @@ NodeRAG offers a user-friendly visualization system. Coupled with a fully develo
 
 ### 🖥️ System Performance
 
-<div align="center">
-  <img src="/asset/system_performance.png" alt="System Performance" width="800px">
-</div>
+![System Performance](./asset/system_performance.png)
 
 *Optimized for speed and scalability, NodeRAG achieves fast indexing and query response times even on large datasets.*
 
